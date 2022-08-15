@@ -15,4 +15,6 @@
 
 <h3 align="left">Github Stats:</h3>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AlanCLN)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCLN&theme=tokyonight)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlanCLN&theme=tokyonight)
