@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan (Cheuk Lun) Ng</h1>
 <h3 align="center">I am a full-stack software engineer passionate about deep learning and teaching.</h3>
 
-- 👨‍💻 Check out my portfolio site at [alancln.dev](alancln.dev)
+- 👨‍💻 Check out my portfolio site at [alancln.dev](https://alancln.dev)
 
 - 📫 You can reach me at **alan.ng8912@gmail.com**
 
